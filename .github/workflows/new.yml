@@ -38,7 +38,6 @@ jobs:
           ID: ${{ secrets.ID }}
           HASH: ${{ secrets.HASH }}
           TOKEN: ${{ secrets.TOKEN }}
-          STRING: ${{ secrets.STRING }}
           
 
           
